@@ -1,5 +1,6 @@
 # demo
-https://gitchat.alrmatveev.ru/
+http://gitchat.alrmatveev.ru/
+(no ssl, login with guthub only)
 
 # gitchat
 project for learning, chat on firebase + github graphql api
